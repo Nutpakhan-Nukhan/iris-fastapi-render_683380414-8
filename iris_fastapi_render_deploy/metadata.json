@@ -1,0 +1,19 @@
+{
+  "model_version": "iris-rf-v1",
+  "feature_order": [
+    "sepal_length",
+    "sepal_width",
+    "petal_length",
+    "petal_width"
+  ],
+  "target_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ],
+  "test_accuracy": 0.9,
+  "random_state": 42,
+  "python_version": "3.13.16",
+  "sklearn_version": "1.6.1",
+  "model_sha256": "a6ef37dcdfa8b33aa93ebc80fe8fa07093ce9661f49d79739a4c7a2bcf92433f"
+}
